@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Pangolin&family=Playfair+Display&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;400&family=Pangolin&family=Playfair+Display&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Lobster&family=Oswald:wght@200;400&family=Pangolin&family=Playfair+Display&display=swap');
+
+
+.header {
+  align-items: center;
+  align-content: center;
+  font-size: 30px;
+  font-family: "Pangolin", cursive;
+  padding: 20px 20px;
+  display: flex;
+}
+
+header nav{
+    float:right;
+}
+
+header .logo{
+    float: left;
+}
+
+.h1 {
+  color: rgb(46,134,193);
+  font-size: 30px;
+}
+
+.p {
+  font-family: "Oswald", sans-serif;
+  font-size: 20px;
+}
+
+.menu {
+  list-style: none;
+  margin: auto;
+  background-color: #9ec6f8;
+}
+
+.menu a li {
+  text-decoration: none;
+  color: rgb(49, 49, 169);
+  padding: 20px;
+  display: inline-block;
+}
+
+.menu a li:hover {
+  background: rgb(233, 238, 241);
+  border-radius: 50px;
+}
+
+.wrapper {
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+  overflow: hidden;
+}
+
+.video{
+    margin: 0px auto;
+    width: 550px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.footer{
+  list-style: none;
+  margin: auto;
+  background-color:#9ec6f8;
+  font-size: 20px;
+  overflow: hidden;
+}
+
+.footer a li{
+  text-decoration: none;
+  display: inline-block;
+  padding: 20px 20px;
+
+}
+
+.footer nav{
+  float: left;
+}
+
+.azul{
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  color: rgb(49, 49, 169);
+  text-align: center;
+}
+
+.wid{
+  font-size: 30px;
+  font-family:"Oswald", sans-serif;
+}
+
+.contact{
+  font-size: 20px;
+  font-family:"Oswald", sans-serif;
+  text-align: center;
+}
+
+.piki{
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+  color: rgb(49, 49, 169);
+  text-align: center;
+}
+
